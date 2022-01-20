@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nasi
+- 👋 Hi, I’m Nashid
 - 👀 I’m interested in Malware Analysis and Network Forensics
 - 🌱 I’m currently learning C and C++
 - 🕸️ My Blog : https://nxb1t.neocities.org
