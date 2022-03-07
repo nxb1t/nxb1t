@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nashid
-- 👀 I’m interested in Malware Analysis and Network Forensics
+- ⛳ CTF Player @ TamilCTF
+- 👀 I’m interested in Malware Analysis and CyberForensics
 - 🌱 I’m currently learning C and C++
 - 🕸️ My Blog : https://nxb1t.neocities.org
 <!---
